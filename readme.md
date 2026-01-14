@@ -1,0 +1,1 @@
+Configure husky & write steps to commit
