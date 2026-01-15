@@ -1,6 +1,6 @@
-import { UrlConstants } from '../test/support/constants/UrlConstants';
-import { Browsers } from '../test/support/enum/Browsers';
-import { Environments } from '../test/support/enum/Environments';
+import { UrlConstants } from '../support/constants/UrlConstants';
+import { Browsers } from '../support/enum/Browsers';
+import { Environments } from '../support/enum/Environments';
 import dotenv from 'dotenv';
 
 dotenv.config();
